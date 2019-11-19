@@ -1,8 +1,8 @@
 # Site
 name: 'Foodi en Life'
 description: 'Foodi en Life is a personal blog on Food, Science and Life.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logo2.png'
+favicon: 'assets/images/logo2.png'
 baseurl: '/mundana-theme-jekyll'
 disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
@@ -18,13 +18,14 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   
-author:
-    Mai:
-      name:           Mai Yamamoto
+authors:
+    mai:
+      name:           Mai
+      site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Mai"
-      email:          xxx@gmail.com
-      twitter:        https://twitter.com/
+      bio:            "Hi, I am Mai, the author of Foodi en Life, a personal blog about food, science and life!"
+      email:          aaa@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -34,7 +35,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: Mai
+      author: mai
       avatar: /assets/images/avatar1.jpg
       
   # all pages
