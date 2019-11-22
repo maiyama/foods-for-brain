@@ -1,11 +1,11 @@
 # Site
-name: 'Foodi en Life'
-description: 'Foodi en Life is a personal blog on Food, Science and Life.'
+name: 'Foods for Brain'
+description: 'Foods for Brain is a personal blog on Food, Science and lessons in our everyday life.'
 logo: 'assets/images/logo2.png'
 favicon: 'assets/images/logo2.png'
-baseurl: '/mundana-theme-jekyll'
+baseurl: '/foodsforbrain'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'yamamoto.mai88@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -21,11 +21,15 @@ plugins:
 authors:
     mai:
       name:           Mai
-      site:           https://www.wowthemes.net
+      site:           https://www.linkedin.com/in/yamamotomai88/
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Mai, the author of Foodi en Life, a personal blog about food, science and life!"
-      email:          aaa@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Mai, the author of **Foods for Brain**, a personal blog about food, science and life! 
+
+\n
+
+こんにちは、Maiです。日々の新しい知識、レシピ、海外に住むことなどについて更新していきます。"
+      email:          yamamoto.mai88@gmail.com
+      twitter:        https://twitter.com/Maiski8_8
  
 # Defaults
 defaults:
