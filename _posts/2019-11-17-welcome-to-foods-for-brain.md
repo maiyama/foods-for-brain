@@ -8,12 +8,12 @@ image: assets/images/shiningleaves.jpg
 
 Welcome to my personal blog about food, science and lessons in everyday life! (日本語は下の方）
 
-#### First of all, a little about myself.**
+#### First of all, a little about myself.
 
 I was born and raised in Japan, came to Canada by myself when I was 18 years old. 
 Since then, I have lived in Germany for a bit and four different provinces (BC, Ontario, Quebec and now, Alberta) in Canada, and recently finished Ph.D. in Chemical Biology. My research was on human metabolism of chronic digestive disorders (irritable bowel syndrome & inflammatory bowel disease). 
 
-#### So, why am I writing this blog?**
+#### So, why am I writing this blog?
 
 This blog is the platform for me to share a little bit of knowledge and experience from everyday life that might be useful or entertaining to you. I have done enough schooling but I am still hungry for new knowledge and skills. Scientific explanation of everyday phenomena never ceases to amaze me (Yes, I'm a nerd). I love to eat and try out new ingredients and recipes and keep experimenting with my sourdough culture. Basically, I learn something new almost everyday! 
 
@@ -55,7 +55,7 @@ I'm using my [GitHub account] to host this blog website! I will cover this topic
 
 **GitHub Pagesを使ったブログサイト**
 
-このブログサイトは[GitHub account]を使って他のホスティングサービスを介さずに成り立ってます。どうやってやるかについてはまた後々、ブログアップします。サイトのテンプレートは[Sal]さんが作ったものを使わせていただいてます。
+このブログサイトは[GitHub account]を使って他のホスティングサービスを介さずに成り立ってます。どうやってやるかについてはまた後々、ブログアップします。サイトのテンプレートは[Sal]さんが作ったものを元にして使わせていただいてます。
 
 
 ![walking]({{ site.baseurl }}/assets/images/14.jpg)
