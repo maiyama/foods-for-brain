@@ -28,7 +28,7 @@ According to the guide inside of the windmill:
 > Windmills have played a major role in the Netherlands. 
 Around 1200 the first windmills were probably built in our country. 
 Initially they were only used to grind grain.
-From the fifteenth century onward, they were also used to move water, which greatly increased the habitability of our country. In the seventeenth century, the first mills were used for industry. 
+From the fifteenth century onward, they were also used to move water, which greatly increased the habitability of our country. In the seventeenth century, mills were used for industry for the first time. 
 Mills were used for many purposes and in the eighteenth century some 10,000 mills were in operation. By 1900 there were still 4,000 mills in the Netherlands; by 1996 this number had shrunk to 1,000. [Translated with www.DeepL.com/Translator]
 
 So this windmill has been protected and maintained by the [Dutch Mill society] founded in 1923 and the local organization. The decline of the number of mills started at the beginning of the industrial revolution after the discovery of steam power. Before then, mills were used for all kinds of purposes, including grinding paint, oil, cocoa, grains and corns. 
