@@ -45,6 +45,8 @@ We went to the patio in the backside of the restaurant, filled with green plants
 
 <img src="{{ site.url }}/assets/images/dutchfood.jpg" alt="windmill1" width="500"/>
 
+<script data-ad-client="ca-pub-8932706773070725" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
 
 
 [1]: https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37230NED/table?fromstatweb
