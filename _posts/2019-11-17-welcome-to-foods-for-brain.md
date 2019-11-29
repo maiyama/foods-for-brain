@@ -10,8 +10,10 @@ Welcome to my personal blog about food, science and lessons in everyday life! (�
 
 #### First of all, a little about myself.
 
-I was born and raised in Japan, came to Canada by myself when I was 18 years old. 
+I was born and raised in Japan and came to Canada by myself when I was 18 years old. 
 Since then, I have lived in Germany for a bit and four different provinces (BC, Ontario, Quebec and now, Alberta) in Canada, and recently finished Ph.D. in Chemical Biology. My research was on human metabolism of chronic digestive disorders (irritable bowel syndrome & inflammatory bowel disease). 
+
+I grew up in a Chinese restaurant and my father is a professional chef. Since I was little, food always played an essential role in my life as something that gives me pleasure (smell & taste) and represents social aspects. As I dive deeply into science, I learned a different side of food: the nutrition and the impact on our health. My Ph.D. research kept me busy with learning many things (analytical chemistry, R coding, statistics, medical terms, etc.) other than nutrition. Now that I am done with the Ph.D. research, I have more time to learn about foods, nutrition, and food-related culture!
 
 #### So, why am I writing this blog?
 
@@ -39,6 +41,8 @@ I'm using my [GitHub account] to host this blog website! I will cover this topic
 
 生まれは群馬、育ちは長野、１８歳から主にカナダに在住しています。
 日本を単身で出てから今まで、ドイツに少し住んだ他、カナダの４つの州（ブリティッシュコロンビア、オンタリオ、ケベック、現在はアルバータ）で暮らした経験があります。そして最近、Chemical Biologyという分野で博士号を取得しました。研究内容は、過敏性腸疾患と炎症性腸疾患に関する消化代謝物についてでした。
+
+家業が中華料理屋で、子供の頃から『食』を中心にした生活をしてたため、食事に関して人一倍興味があります。大学で科学の道に進むことにしてから、タンパク質やビタミンなどについても学び、栄養についてすごく興味が出てきました。でも、栄養学を専門にしたわけじゃありません。より仕事を得るのに有利そうな、分析化学を選んで進んでしまったため、（後悔してはいないけど・・・）博士課程では分析機器のことや、R プラグラミングと統計学、メタボロミクスや医療用語などを勉強するのに時間がかかり、あまり食や栄養について時間を割けませんでした。しかし今は自由の身になり、かなり多くの時間を食に関するトピックに費やすことができます！
 
 **ブログを書こうと思ったきっかけ**
 
