@@ -5,6 +5,7 @@ author: mai
 categories: [ travel, food ]
 image: assets/images/delftwindmill_small.jpg
 tags: [sticky]
+bilingual: https://foodsforbrain.com/delft_windmill_JP/
 ---
 
 Back in June 2019, I had an opportunity to visit the Hague for a conference and explore a few nearby cities in the Netherlands. Luckily, my colleague and I met a local student who was doing his Ph.D. in Delft and got to hang out in this small, quiet and beautiful city with his guide. We explored the city, visited a windmill that was producing flour, and visited a local Dutch restaurant to finish off the day!
@@ -46,7 +47,6 @@ We went to the patio in the backside of the restaurant, filled with green plants
 <img src="{{ site.url }}/assets/images/dutchfood.jpg" alt="windmill1" width="500"/>
 
 <script data-ad-client="ca-pub-8932706773070725" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
 
 
 [1]: https://opendata.cbs.nl/statline/#/CBS/nl/dataset/37230NED/table?fromstatweb

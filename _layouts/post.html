@@ -15,6 +15,10 @@ layout: default
                         </span>
 					</p>
 					<h1 class="display-4 mb-2 article-headline">{{ page.title }}</h1>
+　　　　　　　　　　　　　　　　　　　　　{% if page.bilingual %}
+                                        <span><a target="_blank" href="{{ page.bilingual }}" class="btn btn-outline-success btn-sm btn-round ml-1">Switch Language / 日本語・英語変換</a></span>
+<p style="margin-left: 1.5em;padding: 0 3em 1em 0;"> </p>
+ {% endif %}
 					<div class="d-flex align-items-center">
                         {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.url}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>

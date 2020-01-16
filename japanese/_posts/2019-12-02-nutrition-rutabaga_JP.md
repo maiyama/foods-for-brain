@@ -4,6 +4,7 @@ title:  "Rutabagaスープと農作物の栄養価が歴史的に下がってる
 author: mai
 categories: [ food, nutrition ]
 image: assets/images/veggies.jpg
+bilingual: https://foodsforbrain.com/nutrition-rutabaga/
 ---
 
 カナダに来てから１０年ちょっと経ちますが、まだ調理したことのない野菜があります。そのひとつがRutabagaです。Swedeとも呼ばれるこの根野菜、上の写真の真ん中にある白と紫の丸っこい野菜です。北アメリカやヨーロッパでは一般的らしいのですが、日本では見たことがなくてどうやって調理したらいいかわかりませんでした。そんな時、YouTubeでGordon RamseyがRutabagaとカルダモンを使ってスープを作ってるのを見て、最近寒くなったし、１パウンド７８セントと安かったので作ってみることにしました。そこで気になったのが栄養価。そして誰がどうやって栄養を調べているのかということと、昔と比較した農作物の栄養価の変化について。

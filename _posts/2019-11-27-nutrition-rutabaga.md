@@ -5,6 +5,7 @@ author: mai
 categories: [ food, nutrition ]
 image: assets/images/veggies.jpg
 tags: [ featured ]
+bilingual: https://foodsforbrain.com/nutrition-rutabaga_JP/
 ---
 
 The other day, I was inspired by a cooking video by Gordon Ramsay and made a soup with **rutabaga** for the first time. It is the round root vegetable in the middle of the photo above. It may be a familiar vegetable in North America and Europe but not a typical item you would see in a Japanese grocery store. Hence, it was my very first time to eat it and I wanted to know what this big root is good for. <br/>

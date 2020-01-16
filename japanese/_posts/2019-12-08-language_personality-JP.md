@@ -4,6 +4,7 @@ title:  "言語、文化と性格の関係"
 author: mai
 categories: [ culture, language ]
 image: assets/images/japan_osaka.jpg
+bilingual: https://foodsforbrain.com/language_personality/
 ---
 カナダでいろんな言語に囲まれる生活をする中で、使う言語が使う人の性格に及ぼす影響について考えることがしばしばあります。
 例えば、友達や家族から、英語を話す時と日本語を話す時とでは違う人のようだ、と指摘されたとき。<br/>

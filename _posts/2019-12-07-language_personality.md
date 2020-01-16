@@ -4,6 +4,7 @@ title:  "Language, Culture, and Identity"
 author: mai
 categories: [ culture, language ]
 image: assets/images/japan_osaka.jpg
+bilingual: https://foodsforbrain.com/language_personality-JP/
 ---
 Do you speak multiple languages? <br/>
 If you do, does your personality seem to change depending on the language you speak? <br/>

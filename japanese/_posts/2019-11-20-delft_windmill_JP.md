@@ -5,6 +5,7 @@ author: mai
 categories: [ travel, food, japanese ]
 image: assets/images/delftwindmill_small.jpg
 tags: [featured]
+bilingual: https://foodsforbrain.com/delft_windmill/
 ---
 
 今年の６月、オランダのハーグで学会があった際に周辺都市を巡る機会がありました。
