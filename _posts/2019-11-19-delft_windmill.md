@@ -4,7 +4,6 @@ title:  "Windmill, fresh flour and Stamppot: Delft, Netherlands"
 author: mai
 categories: [ travel, food ]
 image: assets/images/delftwindmill_small.jpg
-tags: [sticky]
 bilingual: https://foodsforbrain.com/delft_windmill_JP/
 ---
 
