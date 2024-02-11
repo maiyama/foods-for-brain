@@ -82,7 +82,7 @@ It makes sense to be able to make changes on your site locally in your environme
 gem install jekyll bundler 
 ```
 
-3. Create your clocal clone by clicling the green button that says **Clone or download**. <br/>
+3. Create your local clone by clicling the green button that says **Clone or download**. <br/>
 <img src="{{ site.url }}/assets/images/github4.png" alt="clone" width="500"/>
 4. Get the URL.
 5. Go to your teminal, change the current working directory to where you want the local copy to be and type in the following command with your URL. Now you should have a folder with the same name as your repository in the directory you specified. 
