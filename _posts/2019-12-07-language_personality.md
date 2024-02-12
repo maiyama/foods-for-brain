@@ -4,6 +4,7 @@ title:  "Language, Culture, and Identity"
 author: mai
 categories: [ culture, language ]
 image: assets/images/japan_osaka.jpg
+tag: [featured]
 bilingual: https://foodsforbrain.com/language_personality-JP/
 ---
 Do you speak multiple languages? <br/>

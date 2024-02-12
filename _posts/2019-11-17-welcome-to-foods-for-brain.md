@@ -4,10 +4,10 @@ title:  "Welcome to Foods for Brain!"
 author: mai
 categories: [ motivation, japanese ]
 image: assets/images/shiningleaves.jpg
-tags: [featured]
+tags: [sticky]
 ---
 
-Welcome to my personal blog about food, science and lessons in everyday life!<br/>
+Welcome to my personal blog about food, science and lessons in everyday life! <br/>
 You will find posts in English and Japanese with slightly different contents. Posts in Japanese are tagged with "**Japanese**" tag and can be searched in the keyword search on top right of the homepage. <br/>
 (日本語は下の方）
 
