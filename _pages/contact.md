@@ -3,7 +3,7 @@ title: "Contact"
 permalink: "/contact.html"
 ---
 
-<form action="https://formspree.io/f/yamamoto.mai88@gmail.com" method="POST">    
+<form action="https://formspree.io/f/xvoeagew" method="POST">    
 <p class="mb-4">Please send your message here. I will try to get back to you as soon as I can!</p>
 <div class="form-group row">
 <div class="col-md-6">
